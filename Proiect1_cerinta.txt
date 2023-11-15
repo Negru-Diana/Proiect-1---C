@@ -1,0 +1,27 @@
+PROIECT 1 
+
+Gestionarea datelor financiare: Creați o aplicație care permite utilizatorului să înregistreze și să gestioneze simplu 
+date financiare, cum ar fi tranzacții, venituri și cheltuieli.
+1. Interfață utilizator: Implementați o interfață de utilizator simplă care permite adăugarea și vizualizarea tranzacțiilor. 
+Puteți utiliza funcții de intrare și ieșire pentru a interacționa cu utilizatorul. Aceasta poate fi o linie de comandă 
+program sau o interfață grafică de utilizator ( recomandat ). 15 puncte / 25 puncte
+2. Structuri de date pentru tranzacții: Definiți structuri de date pentru a stoca informații despre tranzacții, 
+cum ar fi data, descrierea, suma și tipul ( venituri sau cheltuieli ). 10 puncte
+3. Caracteristici de bază ale contabilității: implementați funcții care permit utilizatorului să înregistreze noi tranzacții, 
+calculați soldul contului și afișați o listă de tranzacții anterioare. 10 puncte
+4. Raportare financiară simplă: implementați o funcție care generează un raport financiar simplu, cum ar fi 
+ca rezumat al veniturilor și cheltuielilor pentru o anumită perioadă. 10 puncte
+5. Manipularea datelor în fișiere: Permiteți utilizatorului să salveze și să încarce date financiare în fișiere pentru a le păstra 
+între sesiuni. 10 puncte
+6. Validarea datelor de intrare: Asigurați-vă că datele introduse de utilizator sunt validate corespunzător pentru a preveni introducerea 
+date incorecte. 10 puncte
+7. Documentare și comentarii: Documentați codul și adăugați comentarii pentru a fi mai ușor de făcut 
+intelege. 15 puncte
+8. Testare: Testează proiectul pentru a se asigura că funcționează corect și că sunt calcule financiare 
+exacte. 10 puncte
+9. Manipularea erorilor: gestionați erorile și excepțiile în mod corespunzător pentru a preveni blocarea aplicațiilor din cauza 
+intrarilor incorecte. 10 puncte
+10. Respectarea cerințelor specifice ale proiectului: Asigurați-vă că proiectul îndeplinește specificul 
+cerințele stabilite de instructor. 
+11. Prezentare și explicații: Asigurați-vă că puteți explica și prezenta proiectul la 
+instructor sau colegi, subliniind caracteristicile cheie și deciziile de proiectare.
